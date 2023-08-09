@@ -5,4 +5,4 @@
 * CSS
 * HTML
 
-#Link for a better view: 
+Link for a better view: https://guiquintero.github.io/findTheNumber/
